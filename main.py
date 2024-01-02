@@ -5,7 +5,7 @@ import telebot
 from info import characters, questions, welcome_message
 from telebot import types
 
-TOKEN = '6379306935:AAE0TYPvoQysIQIQginClDrACOZWbSTFGJ0'
+TOKEN = 'TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 
